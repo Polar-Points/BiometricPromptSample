@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Biometric Prompt</string>
     <string name="biometric_button_title">Authenticate via Biometrics</string>
+    <string name="no_auth_button_title">No Authentication</string>
+    <string name="input_button_title">Input info</string>
+    <string name="sample_text">Sample Text</string>
+
 </resources>
